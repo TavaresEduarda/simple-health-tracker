@@ -13,7 +13,7 @@ body {
 }
 
 
-.btn-calc {
+#btn-calc {
     background-color: #28a745;
     color: white;
     padding: 10px;
@@ -22,6 +22,6 @@ body {
 
 
 #result {
-    margin-top: 20px
+    margin-top: 20px;
     font-weight: bold;
 }
